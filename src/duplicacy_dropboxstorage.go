@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gilbertchen/go-dropbox"
+	"github.com/freaksdotcom/go-dropbox"
 )
 
 type DropboxStorage struct {
